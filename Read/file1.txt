@@ -1,0 +1,3 @@
+    Iam text file
+    here my conetent
+    if you want to open my file ypu can use open() function in availale in python
