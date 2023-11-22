@@ -1,3 +1,9 @@
-    Iam text file
-    here my conetent
-    if you want to open my file ypu can use open() function in availale in python
+
+Iam text file
+here my conetent
+if you want to open my file ypu can use open() function in availale in python
+new line --1
+new line --2
+ne line --3
+ne line --4
+ne line --5

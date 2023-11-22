@@ -29,8 +29,6 @@ Hi ,
 
 '''
 ----------------------------------  Example : 3----------------------------
- Read
-
 Read the file character wise m
 mean  if we wnat to read any number of character so we can use this method 
 '''
@@ -70,8 +68,22 @@ Hi ,
 We can split the line while reading any files in python  using split() method 
 '''
 
-file = open("file1.txt" , "r")
-data= file.read()
-for line in data :
-    word = line.split()
-    print(word)
+# file = open("file1.txt" , "r")
+# data= file.read()
+# for line in data :
+#     word = line.split()
+#     print(word)
+'''
+Output: 
+['I']
+['a']
+['m']
+[]
+['t']
+'''
+
+
+
+
+
+
